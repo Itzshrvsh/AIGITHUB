@@ -1,4 +1,4 @@
-# 🛰️ SYNAPSE OBSIDIAN: The Neural Intelligence Observatory
+# 🛰️ AIGITHUB: The Neural Intelligence Observatory
 
 [![Next.js](https://img.shields.io/badge/Next.js-15%2B-blueviolet?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-R3F-cyan?style=for-the-badge&logo=three.js)](https://threejs.org/)
@@ -7,7 +7,7 @@
 
 > **"Behold the software civilization. Every line of code, judged. Every architecture, mapped."**
 
-**Synapse Obsidian** is a sentient repository intelligence engine. It goes beyond static analysis, reconstructing GitHub repositories as physically reactive 3D neural ecosystems. Powered by local LLMs (Ollama), it provides autonomous technical auditing, semantic exploration, and a judgmental "Sentient Core" interface that roasts off-topic inquiries.
+**AIGITHUB** is a sentient repository intelligence engine. It goes beyond static analysis, reconstructing GitHub repositories as physically reactive 3D neural ecosystems. Powered by local LLMs (Ollama), it provides autonomous technical auditing, semantic exploration, and a judgmental "Sentient Core" interface that roasts off-topic inquiries.
 
 ---
 
